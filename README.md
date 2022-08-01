@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Live project demo : https://euphonious-macaron-73a84e.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
